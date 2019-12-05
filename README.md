@@ -15,3 +15,6 @@ My code for Advent of Code 2019 - trying to improve my Go skills... feedback app
 * Day 4
   * [Puzzle 1](day04/puzzle-1/main.go) - [Test](day04/puzzle-1/main_test.go)
   * [Puzzle 1](day04/puzzle-2/main.go) - [Test](day04/puzzle-2/main_test.go)
+* Day 5
+  * [Puzzle 1](day05/puzzle-1/main.go) - [Test](day05/puzzle-1/main_test.go)
+  * [Puzzle 2](day05/puzzle-2/main.go) - [Test](day05/puzzle-2/main_test.go)
